@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "R-based Clinical Trial Regulatory Submission Working Group",
+      "description": "The R submission working group is a cross industry pharma working group\nfocusing on improving practices of R-based \nclinical trial regulatory submission. \nThe R submission working group is under R consortium.\n",
+      "author": [],
+      "contents": "\nOur Mission\nEasier R-based clinical trial regulatory submissions today\nby showing open examples of using current submission portals\n\nEasier R-based clinical trial regulatory submissions tomorrow\nby collecting feedback and influencing future industry and agency decisions on system/process setup\n\nPilot principles:\nProvide open examples of submitting R-based clinical trial data/analysis packages to FDA.\nAll pilots will be submitted from R consortium (non-profit identity) to FDA. Simulated data will be used.\nAll data, codes and documents will be fully available to public.\nFDA reviewers will be engaged to reproduce analysis results.\nSubmitters and FDA Reviewers will provide feedback on current process/system.\nContributions from multiple companies/organizations are preferred. Avoid bias to any company/organization specific tools.\n\nPilot 1 - common analyses\nGoal: Example R based submission contains common analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).\nKey evaluation aspects:\nFor Submitter\nSubmission of proprietary R packages\nPreparation of R-based submission materials\n\nFor FDA Reviewer\nReproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages\n\nData and analysis scope:\nx ADaM data set, 4 TLFs (1 listing, 2 tables, 1 figure)\nSuccess Criteria:\nSubmitter:\nSuccessfully submit via eCTD portal\n\nFDA Reviewer:\nReproduce analysis results\n\nTimeline: 2021 H2\n\nPilot 2 - advanced analyses\nGoal: Example R based submission contains advanced analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).\nKey evaluation aspects:\nFor Submitter\nSubmission of proprietary R packages requires advanced computation\nSubmit analysis codes as R package\n\nFor FDA Reviewer\nReproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages and rerunning the analysis package\n\nTimeline: 2022 H1\n\nPilot 3 - alternative formats\nGoal: Example R based submission exploring alternative options than current FDA e-submission system and process (e.g. codes be submitted in .r format).\nTimeline: TBD\n\n\n\n\n",
+      "last_modified": "2021-08-03T21:17:43-07:00"
+    },
+    {
+      "path": "pilot1-details.html",
+      "title": "R submission working group: Pilot 1",
+      "description": "Pilot 1 - Common Analyses",
+      "author": [],
+      "contents": "\nPilot Overview\nPilot 1 - common analyses\nGoal: Example R based submission contains common analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).\nKey evaluation aspects:\nFor Submitter\nSubmission of proprietary R packages\nPreparation of R-based submission materials\n\nFor FDA Reviewer\nReproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages\n\nData and analysis scope:\nx ADaM data set, 4 TLFs (1 listing, 2 tables, 1 figure)\nSuccess Criteria:\nSubmitter:\nSuccessfully submit via eCTD portal\n\nFDA Reviewer:\nReproduce analysis results\n\nTimeline: 2021 H2\n\nDetails\nData\nAnalyses\nCode\nDocuments\n\n\n\n",
+      "last_modified": "2021-08-03T21:18:18-07:00"
+    },
+    {
+      "path": "planned-pilots.html",
+      "title": "R submission working group: Planned Pilots",
+      "description": "Planned ones",
+      "author": [],
+      "contents": "\nPilot principles:\nProvide open examples of submitting R-based clinical trial data/analysis packages to FDA.\nAll pilots will be submitted from R consortium (non-profit identity) to FDA. Simulated data will be used.\nAll data, codes and documents will be fully available to public.\nFDA reviewers will be engaged to reproduce analysis results.\nSubmitters and FDA Reviewers will provide feedback on current process/system.\nContributions from multiple companies/organizations are preferred. Avoid bias to any company/organization specific tools.\n\nPilot 1 - common analyses\nGoal: Example R based submission contains common analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).\nKey evaluation aspects:\nFor Submitter\nSubmission of proprietary R packages\nPreparation of R-based submission materials\n\nFor FDA Reviewer\nReproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages\n\nData and analysis scope:\nx ADaM data set, 4 TLFs (1 listing, 2 tables, 1 figure)\nSuccess Criteria:\nSubmitter:\nSuccessfully submit via eCTD portal\n\nFDA Reviewer:\nReproduce analysis results\n\nTimeline: 2021 H2\n\nPilot 2 - advanced analyses\nGoal: Example R based submission contains advanced analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).\nKey evaluation aspects:\nFor Submitter\nSubmission of proprietary R packages requires advanced computation\nSubmit analysis codes as R package\n\nFor FDA Reviewer\nReproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages and rerunning the analysis package\n\nTimeline: 2022 H1\n\nPilot 3 - alternative formats\nGoal: Example R based submission exploring alternative options than current FDA e-submission system and process (e.g. codes be submitted in .r format).\nTimeline: TBD\n\n\n\n\n",
+      "last_modified": "2021-08-03T21:17:56-07:00"
+    },
+    {
+      "path": "wg.html",
+      "title": "R submission working group: members",
+      "description": "WG members",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-08-03T21:17:51-07:00"
+    }
+  ],
+  "collections": []
+}

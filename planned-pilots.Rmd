@@ -1,0 +1,21 @@
+---
+title: "R submission working group: Planned Pilots"
+description: |
+  Planned ones
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r child="pilot-overall.Rmd", echo=FALSE}
+```
+
+```{r child="pilot1-overall.Rmd", echo=FALSE}
+```
+
+```{r child="pilot2-overall.Rmd", echo=FALSE}
+```
+
+```{r child="pilot3-overall.Rmd", echo=FALSE}
+```

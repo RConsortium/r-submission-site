@@ -1,0 +1,26 @@
+
+## Pilot 1 - common analyses
+
+**Goal**: Example R based submission contains common analyses, submission through the current FDA e-submission system and process (e.g. codes will be submitted as .txt files).
+
+**Key evaluation aspects**: 
+  
+- For Submitter  
+  - Submission of proprietary R packages
+  - Preparation of R-based submission materials
+- For FDA Reviewer
+  - Reproduce analysis results by reconstructing submitted proprietary packages / retrieving open source packages
+
+**Data and analysis scope**:
+  
+- x ADaM data set, 4 TLFs (1 listing, 2 tables, 1 figure)
+
+**Success Criteria**:
+  
+- Submitter:
+  - Successfully submit via eCTD portal
+- FDA Reviewer:
+  - Reproduce analysis results
+
+
+**Timeline**: 2021 H2

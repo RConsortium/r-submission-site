@@ -1,0 +1,24 @@
+---
+title: "R submission working group: Pilot 1"
+description: |
+  Pilot 1 - Common Analyses
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Pilot Overview
+
+```{r child="pilot1-overall.Rmd", echo=FALSE}
+```
+
+# Details
+
+## Data
+
+## Analyses
+
+## Code
+
+## Documents

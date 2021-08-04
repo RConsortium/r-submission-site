@@ -1,0 +1,19 @@
+name: "rsubmission-web"
+title: "R based clinical trial regulatory submission"
+description: |
+  R submission
+output_dir: "docs"
+theme: theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Pilots"
+      menu:
+        - text: "Planned Pilots"
+          href: planned-pilots.html
+        - text: "Pilot 1 - Common Analyses"
+          href: pilot1-details.html
+    - text: "Working group"
+      href: wg.html      
+output: distill::distill_article
